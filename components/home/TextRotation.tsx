@@ -20,7 +20,7 @@ function TextRotatePreview() {
             className="bg-[#ff5941] text-white rounded-lg px-4 inline-flex items-center justify-center text-center whitespace-nowrap"
             style={{
               height: "2.6rem",
-              lineHeight: "",
+              lineHeight: "normal",
             }}
           >
             <TextRotate
